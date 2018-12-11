@@ -10,7 +10,7 @@ Learning notes from i5k-workspace.
 
 ## JavaScript
 
-- [npm.pttx](presentations/npm.pttx) by Chin-Hung.
+- [npm.pttx](presentations/npm.pttx) by Chun-Hung.
 
 ## DOM
 
@@ -20,11 +20,15 @@ Learning notes from i5k-workspace.
 
 ## software testing and CI
 
-- [test_CI.pttx](presentations/test_CI.pttx) by Chin-Hung.
-- [Testing.pttx](presentations/Testing.pttx) by Chin-Hung.
-- [CI.pptx](presentations/CI.pttx) by Chin-Hung.
+- [test_CI.pttx](presentations/test_CI.pttx) by Chun-Hung.
+- [Testing.pttx](presentations/Testing.pttx) by Chun-Hung.
+- [CI.pptx](presentations/CI.pttx) by Chun-Hung.
 
 ## AJAX
+
+## Docker
+
+- [docker_documentation](presentations/docker_documentation) by Min-Chen.
 
 ## jQuery
 
