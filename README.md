@@ -38,7 +38,7 @@ Learning notes from i5k-workspace.
 
 ## Celery
 
-- [Celery Introudction](presentations/celery_2018001.pptx) by Chin-Hung.
+- [Celery Introudction](presentations/celery_2018001.pptx) by Chun-Hung.
 
 ## Django
 
